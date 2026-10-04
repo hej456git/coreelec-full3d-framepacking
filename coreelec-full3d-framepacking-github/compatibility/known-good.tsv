@@ -1,0 +1,2 @@
+# status	date	coreelec_commit	kodi_commit	common_drivers_commit	device	notes
+tested	2026-09-29	f30e977a4b	0661a5d74edc384f443b17c9467c1f5efa9ec337	4dbe1c27ae176fde4c1cbef7506618fd7f62b976	Nokia Streaming Box 8010 (S905X4)	FSBS, FTAB, MVC and manual-stop validated
